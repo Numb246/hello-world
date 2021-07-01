@@ -7,5 +7,7 @@ Hi everyone, this is my information
 - Year: first year
 - University: University of Information Technology
 - Major: Software Engineering
+- Personal Email Address: huyvu24062002@gmail.com
+- School Work Address: 20521419@gm.uit.edu.vn
 #
 Ps: my english is not very good so I will spend more time on it, from today, 1/7/2021, I promise myself to try hard to have a better future.
